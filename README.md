@@ -1,4 +1,4 @@
-# Agentic AI — Educational Enablement Program (EEP)
+# Agentic AI — Educator Enablement Program (EEP)
 
 Modular curriculum content designed to teach the fundamentals and applications of Agentic AI, from core concepts to hands-on building with AI agents. Created by the Machine Learning University (MLU) team, this repository provides content needed to learn or teach a complete Agentic AI course.
 
